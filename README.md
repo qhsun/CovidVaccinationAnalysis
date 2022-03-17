@@ -142,7 +142,7 @@ The null hypothesis for the second and third research are as follows:
 
 ## Limitations
 There are four main limitations for this research.    
-First, the model assumptions are not well met due to the skewed data so the results of the model can be used to understand basic associations but should not be taken too literally or used for prediction. Other model should be applied before drawing any conclusions.    
-Second, the associations found in this analysis may not translate to other counties, states, and countries.    
-Third, this analysis does not completely capture the associations the completely vaccinated and confirmed cases and total covid death.    
-Finally, other influencing factors such as recovery data and more vaccination data could be considered for further analysis. The lack of vaccination data from Dec.2020 to May 24th, 2021 may not very well explain the impact of vaccine administration on reducing the spread of Covid-19 regarding other factors such as stay-at-home order, mask mandate policy, etc.   
+- First, the model assumptions are not well met due to the skewed data so the results of the model can be used to understand basic associations but should not be taken too literally or used for prediction. Other model should be applied before drawing any conclusions.    
+- Second, the associations found in this analysis may not translate to other counties, states, and countries.    
+- Third, this analysis does not completely capture the associations the completely vaccinated and confirmed cases and total covid death.    
+- Finally, other influencing factors such as recovery data and more vaccination data could be considered for further analysis. The lack of vaccination data from Dec.2020 to May 24th, 2021 may not very well explain the impact of vaccine administration on reducing the spread of Covid-19 regarding other factors such as stay-at-home order, mask mandate policy, etc.   
